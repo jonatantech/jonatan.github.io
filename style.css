@@ -292,6 +292,10 @@ nav ul li a:hover::after {
   background: #ff004f;
 }
 
+.container span {
+  color: #ff004f;
+}
+
 /*----------------Contact---------------*/
 
 .contact-left {
