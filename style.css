@@ -377,6 +377,20 @@ form .btn2 {
   color: #ff004f;
 }
 
+.contact-right span {
+  color: #ff004f;
+  
+}
+
+.fa-solid.fa-check {
+  color: #ff004f;
+  margin-right: 10px; 
+} 
+
+.confirmation-alert {
+  display: inline-block; 
+}
+
 /*--------------Small screens----------*/
 nav .fas {
   display: none;
