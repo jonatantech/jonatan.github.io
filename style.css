@@ -33,6 +33,7 @@ nav {
 
 .logo {
   width: 140px;
+  visibility: hidden; 
 }
 
 nav ul li {
