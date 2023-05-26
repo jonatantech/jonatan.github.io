@@ -340,6 +340,7 @@
                     </div>
                 </div>
             </div>
+            <button class="back-to-top" onclick="window.scrollTo(0, 0);">Back to Top</button>
             <div class="copyright">
                 <p>
                     Copyright © Jonatan. Made with <i class="fa-solid fa-heart"></i> by Jonatan
@@ -373,6 +374,23 @@
                 sidemenu.style.right = "-200px";
             }
         </script>
+        <!-- logic back-to-top button -->
+    <script>
+      var button = document.querySelector(".back-to-top");
+
+      window.addEventListener("scroll", function () {
+        var scrollY = window.scrollY;
+        var pageHeight = document.documentElement.scrollHeight;
+
+        if (scrollY > pageHeight * 0.75) {
+          button.style.opacity = 1;
+        } else {
+          button.style.opacity = 0;
+        }
+      });
+
+    </script>
+        
 </body>
 
 </html>
