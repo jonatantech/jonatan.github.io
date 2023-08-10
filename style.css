@@ -421,7 +421,7 @@ form .btn2 {
 /*--------------scrollbar----------*/
 
 body::-webkit-scrollbar-thumb {
-    background: #a1a1a1;
+    background: #ff004f;
     border-radius: 4px
 }
 
