@@ -21,7 +21,7 @@ You can check out my portfolio live <a href="http://jonatantech.github.io" targe
 - **Project Showcase**: Display your web development projects with detailed descriptions.
 - **Contact Information**: Easily reachable through contact details provided.
 - **Responsive**: Works seamlessly on desktops, tablets, and mobile devices.
-- **Integrated with FormSubmit**: Connected to form endpoint service "FormSubmit" to receive submissions to handle the backend and assure the deliverity. Check Form submit documentation <a href="http://formsubmit.co" target="_blank" rel="noreferrer">here.</a>
+- **Integrated with FormSubmit**: Connected to form endpoint service "FormSubmit" to receive submissions, handle the backend and assure the deliverity. Check Form submit documentation <a href="http://formsubmit.co" target="_blank" rel="noreferrer">here.</a>
 - **Back to top button**: Added back to top button for better user experience.
 
 ## Technologies
