@@ -12,7 +12,7 @@ Welcome to my portfolio! This is a showcase of my web development journey where 
 - [License](#license)
 
 ## Demo
-You can check out my portfolio live [here](jonatantech.github.io).
+You can check out my portfolio live <a href="jonatantech.github.io">here.</a>
 
 ![Portfolio Screenshot](screencapture.webp)
 
