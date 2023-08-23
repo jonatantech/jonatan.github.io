@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! This is a showcase of my web development journey where I've used JavaScript, HTML, and CSS to create a fantastic digital space to display my work and skills.
+This template is a showcase some of my web development portfolio where I've used JavaScript, HTML, and CSS. Feel free to use it by changing the content inside.
 
 ## Table of Contents
 - [Demo](#demo)
@@ -31,11 +31,10 @@ You can check out my portfolio live <a href="http://jonatantech.github.io" targe
 
 ## Installation
 1. Clone this repository to your local machine.
-
 2. Open the `index.html` file in your web browser to view the portfolio.
 
 ## Usage
-- Replace the placeholder content in the `index.html` file with your own projects and details.
+- Edit content in the `index.html` file with your own projects and details.
 - Customize the CSS styles in the `styles.css` file to match your personal brand.
 
 ## Contributing
