@@ -14,7 +14,7 @@ Welcome to my portfolio! This is a showcase of my web development journey where 
 ## Demo
 You can check out my portfolio live [here](jonatantech.github.io).
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot]([screenshot.png](https://jonatantech.github.io/))
 
 ## Features
 - **Interactive Design**: A user-friendly interface with smooth navigation.
