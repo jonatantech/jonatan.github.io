@@ -12,7 +12,7 @@ Welcome to my portfolio! This is a showcase of my web development journey where 
 - [License](#license)
 
 ## Demo
-You can check out my portfolio live <a href="jonatantech.github.io">here.</a>
+You can check out my portfolio live <a href="http://jonatantech.github.io" target="_blank" rel="noreferrer">here.</a>
 
 ![Portfolio Screenshot](screencapture.webp)
 
@@ -40,4 +40,4 @@ You can check out my portfolio live <a href="jonatantech.github.io">here.</a>
 Feel free to contribute to the project by opening issues or submitting pull requests. Any contributions are highly appreciated!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
